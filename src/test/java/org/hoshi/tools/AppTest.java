@@ -1,4 +1,4 @@
-package com.hoshisoft.tools;
+package org.hoshi.tools;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
